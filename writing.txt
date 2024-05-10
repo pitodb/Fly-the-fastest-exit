@@ -1,0 +1,39 @@
+
+BOEING 777
+
+	 First Class
+
+|   X         X   X         X   |
+|   X         X   X         X   |
+
+	 Business Class
+
+|  X  X     X  X  X  X     X  X  |
+|  X  X     X  X  X  X     X  X  |
+|  X  X     X  X  X  X     X  X  |
+|  X  X     X  X  X  X     X  X  |
+|  X  X     X  X  X  X     X  X  |
+|  X  X     X  X  X  X     X  X  |
+
+	 Economy Class
+
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |
+|  X  X  X     X  X  X  X     X  X  X  |

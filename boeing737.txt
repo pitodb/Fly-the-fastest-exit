@@ -1,0 +1,36 @@
+
+BOEING 737
+
+Economy Class
+
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
+| X X X   X X X |
